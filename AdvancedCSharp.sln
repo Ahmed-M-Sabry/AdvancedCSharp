@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36705.20 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCSharp", "AdvancedCSharp\AdvancedCSharp.csproj", "{A671E3E8-90CA-48D0-B0BE-EDE4AFDB1400}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event.dll", "Event.dll\Event.dll.csproj", "{83842CEF-F518-4088-B5AB-002599743302}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A671E3E8-90CA-48D0-B0BE-EDE4AFDB1400}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A671E3E8-90CA-48D0-B0BE-EDE4AFDB1400}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A671E3E8-90CA-48D0-B0BE-EDE4AFDB1400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83842CEF-F518-4088-B5AB-002599743302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83842CEF-F518-4088-B5AB-002599743302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83842CEF-F518-4088-B5AB-002599743302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83842CEF-F518-4088-B5AB-002599743302}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
